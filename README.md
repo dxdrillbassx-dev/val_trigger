@@ -1,1 +1,1 @@
-# val_trigger
+#VALORANT Trigger v2
