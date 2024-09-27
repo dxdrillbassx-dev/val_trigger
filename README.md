@@ -1,4 +1,4 @@
-# VALORANT Trigger v2
+# VALORANT Trigger v2 (Eng)
 
 - (WARNING)To work you need to download AutoHotKey
 
@@ -25,7 +25,7 @@ Important!!! Disable mouse buffering in game settings
    - Off
 ~~~
 
-# VALORANT Trigger v2
+# VALORANT Trigger v2 (Ru)
 
 - (ПРЕДУПРЕЖДЕНИЕ)Для работы требуется скачать AutoHotKey
 
